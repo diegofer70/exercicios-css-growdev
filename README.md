@@ -4,10 +4,12 @@ Este repositório contém uma série de exercícios práticos para aprender e ap
 
 ## Estrutura do Repositório
 
+```bash
 /exercicios-css
 ├── 01-flexbox-layout
 ├── 02-responsive-grid
 └── 03-css-background-props
+```
 
 ## 01 – Flexbox Layout
 
@@ -52,19 +54,19 @@ Abra o arquivo **index.html** no navegador para visualizar o exercício.
 ## Contribuição
 Contribuições são bem-vindas!
 
-1.Faça um fork do repositório
+1. Faça um fork do repositório
 
-2.Crie uma branch com sua alteração:
+2. Crie uma branch com sua alteração:
    ```bash
    git checkout -b minha-alteracao
    ```
 
-3.Commit suas mudanças:
+3. Commit suas mudanças:
    ```bash
    git commit -m "Adiciona nova funcionalidade"
    ```
-4.Faça o push para a branch:
+4. Faça o push para a branch:
    ```bash
    git push origin minha-alteracao
    ```
-5.Abra um Pull Request
+5. Abra um Pull Request
