@@ -1,0 +1,10 @@
+body {
+    /* background-color: aquamarine; 
+    background-image: url("./background1.jpg"); 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: contain; 
+    background-attachment: scroll;  */
+
+    background: url("./background2.png") no-repeat center;
+}
